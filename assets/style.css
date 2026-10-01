@@ -185,11 +185,12 @@ body {
 
 .product-image {
     width: 100%;
-    height: 250px;
-    object-fit: cover;
+    height: 400px;
+    object-fit: contain;
     border-radius: 3px;
     display: block;
     margin-bottom: 18px;
+    background: #f8f6f3;
 }
 
 .grid .card h3 {
